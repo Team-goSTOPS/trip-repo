@@ -123,8 +123,11 @@ nav{
 
 .main{
     display:block;
-    margin-left: 6rem;
-    margin-right: 6rem;
+    margin-left: 9rem;
+    margin-right: 3rem;
+    width:80%;
+    height: 30%;
+    align-items: center;
 }
                     
                     
@@ -325,8 +328,6 @@ nav{
     margin-top: 6rem;
     margin-left:-4.5rem;
     position:relative;
-
-
 }
 
 .rate-1{
