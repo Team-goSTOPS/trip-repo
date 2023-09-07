@@ -181,8 +181,8 @@ main{
     display: flex;
     flex-direction: column;
      height:433px;
-    width: 90%;
-    margin-left: 60px;
+    width: 100%;
+    /* margin-left: 60px; */
     border-radius:4rem;
     border: 2px solid #808080;
     
@@ -194,8 +194,8 @@ main{
     display: flex;
     flex-direction: column;
      height:433px;
-     width: 90%;
-    margin-left: 60px;
+     width: 100%;
+    /* margin-left: 60px; */
     border-radius:4rem;
     border: 2px solid #808080;
     position: relative;
